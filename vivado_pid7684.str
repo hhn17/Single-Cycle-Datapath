@@ -1,0 +1,123 @@
+/*
+
+Xilinx Vivado v2021.1.1 (64-bit) [Major: 2021, Minor: 1]
+SW Build: 3286242 on Wed Jul 28 13:10:47 MDT 2021
+IP Build: 3279568 on Wed Jul 28 16:48:48 MDT 2021
+
+Process ID (PID): 7684
+License: Customer
+Mode: GUI Mode
+
+Current time: 	Mon Nov 15 17:30:34 EST 2021
+Time zone: 	Eastern Standard Time (America/New_York)
+
+OS: Windows 10
+OS Version: 10.0
+OS Architecture: amd64
+Available processors (cores): 8
+
+Screen size: 1920x1080
+Screen resolution (DPI): 100
+Available screens: 1
+Default font: family=Dialog,name=Dialog,style=plain,size=12
+Scale size: 12
+
+Java version: 	11.0.2 64-bit
+Java home: 	D:/Xlinx/Vivado/2021.1/tps/win64/jre11.0.2
+Java executable: 	D:/Xlinx/Vivado/2021.1/tps/win64/jre11.0.2/bin/java.exe
+Java initial memory (-Xms): 	256 MB
+Java maximum memory (-Xmx):	 3 GB
+
+
+User name: 	PC
+User home directory: C:/Users/PC
+User working directory: C:/Users/PC/Desktop/605/Lab5
+User country: 	US
+User language: 	en
+User locale: 	en_US
+
+RDI_BASEROOT: D:/Xlinx/Vivado
+HDI_APPROOT: D:/Xlinx/Vivado/2021.1
+RDI_DATADIR: D:/Xlinx/Vivado/2021.1/data
+RDI_BINDIR: D:/Xlinx/Vivado/2021.1/bin
+
+Vivado preferences file: C:/Users/PC/AppData/Roaming/Xilinx/Vivado/2021.1/vivado.xml
+Vivado preferences directory: C:/Users/PC/AppData/Roaming/Xilinx/Vivado/2021.1/
+Vivado layouts directory: C:/Users/PC/AppData/Roaming/Xilinx/Vivado/2021.1/data/layouts
+PlanAhead jar file: 	D:/Xlinx/Vivado/2021.1/lib/classes/planAhead.jar
+Vivado log file: 	C:/Users/PC/Desktop/605/Lab5/vivado.log
+Vivado journal file: 	C:/Users/PC/Desktop/605/Lab5/vivado.jou
+Engine tmp dir: 	C:/Users/PC/Desktop/605/Lab5/.Xil/Vivado-7684-DESKTOP-S6L8E06
+
+Xilinx Environment Variables
+----------------------------
+XILINX: D:/Xlinx/Vivado/2021.1/ids_lite/ISE
+XILINX_DSP: D:/Xlinx/Vivado/2021.1/ids_lite/ISE
+XILINX_HLS: D:/Xlinx/Vitis_HLS/2021.1
+XILINX_PLANAHEAD: D:/Xlinx/Vivado/2021.1
+XILINX_VIVADO: D:/Xlinx/Vivado/2021.1
+XILINX_VIVADO_HLS: D:/Xlinx/Vivado/2021.1
+
+
+GUI allocated memory:	256 MB
+GUI max memory:		3,072 MB
+Engine allocated memory: 1,134 MB
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+
+*/
+
+// TclEventType: START_GUI
+// Tcl Message: start_gui 
+// TclEventType: PROJECT_OPEN_DIALOG
+// bz (cs):  Open Project : addNotify
+// Opening Vivado Project: C:\Users\PC\Desktop\605\Lab5\Lab5.xpr. Version: Vivado v2021.1.1 
+// TclEventType: DEBUG_PROBE_SET_CHANGE
+// TclEventType: FLOW_ADDED
+// Tcl Message: open_project C:/Users/PC/Desktop/605/Lab5/Lab5.xpr 
+// HMemoryUtils.trashcanNow. Engine heap size: 1,134 MB. GUI used memory: 58 MB. Current time: 11/15/21, 5:30:35 PM EST
+// TclEventType: MSGMGR_MOVEMSG
+// TclEventType: FILE_SET_CHANGE
+// TclEventType: FILE_SET_NEW
+// TclEventType: RUN_CURRENT
+// TclEventType: PROJECT_DASHBOARD_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_NEW
+// Tcl Message: open_project C:/Users/PC/Desktop/605/Lab5/Lab5.xpr 
+// Tcl Message: Scanning sources... Finished scanning sources 
+// Tcl Message: INFO: [IP_Flow 19-234] Refreshing IP repositories INFO: [IP_Flow 19-1704] No user IP repositories specified 
+// TclEventType: PROJECT_NEW
+// [GUI Memory]: 78 MB (+79729kb) [00:00:42]
+// [Engine Memory]: 1,134 MB (+1037634kb) [00:00:42]
+// [GUI Memory]: 98 MB (+16835kb) [00:00:42]
+// WARNING: HEventQueue.dispatchEvent() is taking  4684 ms.
+// Tcl Message: INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/Xlinx/Vivado/2021.1/data/ip'. 
+// Project name: Lab5; location: C:/Users/PC/Desktop/605/Lab5; part: xc7a35tcpg236-1
+// Tcl Message: open_project: Time (s): cpu = 00:00:18 ; elapsed = 00:00:30 . Memory (MB): peak = 1101.930 ; gain = 0.000 
+dismissDialog("Open Project"); // bz
+// [GUI Memory]: 112 MB (+9125kb) [00:00:47]
+// Tcl Command: 'rdi::info_commands {device::*}'
+// Tcl Command: 'rdi::info_commands {debug::*}'
+// Tcl Command: 'rdi::info_commands {*}'
+// Tcl Message: update_compile_order -fileset sources_1 
+// [GUI Memory]: 135 MB (+17808kb) [00:00:57]
+// Elapsed time: 12 seconds
+expandTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, Datapath (Datapath.v)]", 1); // D
+// PAPropertyPanels.initPanels (Datapath.v) elapsed time: 0.2s
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, Datapath (Datapath.v)]", 1, true); // D - Node
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, Datapath (Datapath.v)]", 1, true, false, false, false, false, true); // D - Double Click - Node
+// bz (cs):  Opening Editor : addNotify
+// Elapsed time: 23 seconds
+selectButton(RDIResource.ProgressDialog_BACKGROUND, "Background"); // a
+// [GUI Memory]: 142 MB (+789kb) [00:01:23]
